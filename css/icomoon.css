@@ -3132,4 +3132,18 @@
 .icon-IcoMoon:before {
     content: "\eca7";
 }
-
+.icon-medium:before {
+  content: "\e900";
+}
+.icon-github:before {
+  content: "\e901";
+}
+.icon-linkedin:before {
+  content: "\e902";
+}
+.icon-quora:before {
+  content: "\eca9";
+}
+.icon-github-alt:before {
+  content: "\ecaa";
+}
