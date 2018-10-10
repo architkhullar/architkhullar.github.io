@@ -1292,4 +1292,31 @@ input[type="text"] {
   opacity: 0;
 }
 
+/* Skills Section */
+#skills {
+	padding: 80px 0;
+	background: #FF9000;
+}
+#skills h2 {
+	color: #fff;
+}
+#skills hr {
+	background: rgba(255,255,255,0.3);
+}
+#skills .skill {
+	margin-bottom: 40px;
+	text-align: center;
+	padding: 0px;
+}
+#skills .skill h4 {
+	font-weight: 600;
+	color: #000;
+}
+
+#skills .skill li {
+	border: solid 1px #000;
+	background-color: #fff;
+	color: #000;
+}
+
 /*# sourceMappingURL=style.css.map */
